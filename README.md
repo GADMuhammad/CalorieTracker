@@ -1,7 +1,5 @@
 # CalorieTracker
 
-# Calorie Tracker
-
 A React-based web application designed to help users monitor and track their daily calorie intake efficiently. 
 The app features a clean and responsive user interface styled with Tailwind CSS, providing a seamless user experience.
 
