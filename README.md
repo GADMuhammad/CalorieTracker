@@ -12,7 +12,7 @@ A simple and interactive Calorie Tracker app to help users manage and track thei
 ## Technologies Used
 
 - **React** for building the user interface.
-- **CSS/SASS** for styling the app.
+- **CSS/SASS/TailwindCSS** for styling the app.
 - **localStorage** to store user data.
 
 ## Setup Instructions
